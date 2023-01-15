@@ -4,8 +4,8 @@ Description:
 This Matlab code provides a graphical user interface (GUI) for segmenting the kidneys in a semi-automatic manner. The GUI allows the user to load a set of kidney MR image, selects both the kidneys semi-automatically, and saves the segmented image as binary masks. 
 
 Requirements:
-Matlab 2016b or later
-Image processing toolbox
+Matlab 2016b or later; 
+Image processing toolbox; 
 MRELab (for further MRE data processing)
 
 Usage:
